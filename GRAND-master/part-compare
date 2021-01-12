@@ -1,0 +1,3 @@
+Final results of GCNC:  [('cora', '89.34%', '0.9240s'), ('citeseer', '78.14%', '0.9870s'), ('pubmed', '87.18%', '1.2509s')]
+
+Final results of GRAND:  [('cora', '82.3529%', '59.6598s'), ('citeseer', '75.7485%', '53.1118s'), ('pubmed', '83.2742%', '47.1238s')]
